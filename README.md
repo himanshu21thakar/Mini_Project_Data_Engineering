@@ -5,7 +5,7 @@ This repository contains a **Machine Learning model** that predicts whether a lo
 ---
 
 ## 🔗 Live App
-[👉 **Launch the Loan Approval App**][https://your-streamlit-app-link](https://miniprojectdataengineering-himanshu.streamlit.app/)  
+[👉 **Launch the Loan Approval App**] :- [https://your-streamlit-app-link](https://miniprojectdataengineering-himanshu.streamlit.app/)  
 *(Replace with your actual Streamlit or hosted link)*
 
 ---
